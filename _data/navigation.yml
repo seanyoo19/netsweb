@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "UCAR"
     url: https://www.ucar.edu/
@@ -10,6 +10,10 @@ main:
     url: https://sundog.ucar.edu/Interact/Pages/Section/Default.aspx?Section=4685
   - title: "Submit a Request"
     url: https://ithelp.ucar.edu/plugins/servlet/desk/site/global
+ 
+  # These were from the template
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
