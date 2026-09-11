@@ -8,8 +8,8 @@ main:
     url: https://ncar.ucar.edu/
   - title: "EIT"
     url: https://sundog.ucar.edu/Interact/Pages/Section/Default.aspx?Section=4685
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Submit a Request"
+    url: https://ithelp.ucar.edu/plugins/servlet/desk/site/global
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
