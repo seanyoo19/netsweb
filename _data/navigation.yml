@@ -4,6 +4,12 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "UCAR"
     url: https://www.ucar.edu/
+  - title: "Sample Posts"
+    url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
