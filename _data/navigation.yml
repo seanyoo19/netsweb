@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /lorem-ipsum/
+    url: /about/
   - title: "UCAR"
     url: https://www.ucar.edu/
   - title: "NCAR"
