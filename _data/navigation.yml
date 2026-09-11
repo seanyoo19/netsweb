@@ -6,8 +6,8 @@ main:
     url: https://www.ucar.edu/
   - title: "NCAR"
     url: https://ncar.ucar.edu/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "EIT"
+    url: https://sundog.ucar.edu/Interact/Pages/Section/Default.aspx?Section=4685
   # - title: "Sitemap"
   #   url: /sitemap/
   # - title: "Sample Posts"
